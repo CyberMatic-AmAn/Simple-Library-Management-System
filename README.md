@@ -16,7 +16,7 @@ A simple yet efficient **Library Management System** built using **Python**, **T
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/yourusername/library-management-system.git
+   git clone https://github.com/CyberMatic-AmAn/library-management-system.git
 
 2. Navigate to project folder
    ```bash

@@ -1,4 +1,13 @@
+'''
 
+This code is written in python 3.9 so 
+in higher versions maybe it will not work 
+to address this issue you can make a issue
+and I will soon fix as soon a possible.
+
+@CyberMatic-AmAn github
+
+'''
 import sqlite3
 from tkinter import *
 import tkinter.ttk as ttk
